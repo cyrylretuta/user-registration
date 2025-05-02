@@ -1,4 +1,4 @@
-# 📝 User Registration Form with Validation
+# User Registration Form with Validation
 
 This is a React-based user registration form that uses controlled components and real-time form validation to ensure data correctness.
 
@@ -6,9 +6,9 @@ This is a React-based user registration form that uses controlled components and
 
 [Live Project](https://cyrylretuta.github.io/user-registration/)
 
-## 📂 GitHub Repository
+## GitHub Repository
 
-[GitHub Repo](https://github.com/yourusername/your-repo-name)
+[GitHub Repo](https://github.com/cyrylretuta/user-registration.git)
 
 ## Technologies Used
 
